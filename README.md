@@ -1,18 +1,5 @@
 # Learning-Python-With-Codesaya
 
- <style>
-        a {
-            text-decoration: none;
-            color: blue; /* Optional: Untuk menentukan warna teks link */
-        }
-
-        /* Opsional: Gaya ketika link dihover */
-        a:hover {
-            text-decoration: underline; /* Mengembalikan garis bawah saat hover */
-            color: darkblue; /* Mengubah warna saat hover */
-        }
-    </style>
-
 <div align="center">
   <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b9527in04eu6z2e7th06odvjotl10dovbjv5g6pytfki&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="200" ">
   
@@ -20,7 +7,7 @@
 </div>
 <br>
 
-<a href="https://codesaya.com/"><b>Klik di sini untuk mengunjungi CodeSaya</b></a>
+<a style="text-decoration: none; color: blue; text-align:center;" href="https://codesaya.com/"><b>Klik di sini untuk mengunjungi CodeSaya</b></a>
 
 First of all, I would like to thank CodeSaya which has opened a free python learning class for students like me, so that I can learn and know how to write correct python code, recognize variables, conditions and control flow, functions and modules, lists and dicts, and much more.
 
