@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b9527in04eu6z2e7th06odvjotl10dovbjv5g6pytfki&ep=v1_gifs_search&rid=giphy.gif&ct=g"  height="200" ">
+  <img src="https://codesaya.b-cdn.net/static/img/home-study.jpeg" height="200">
 </div>
 <br>
 
